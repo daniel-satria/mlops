@@ -1,0 +1,2 @@
+CREATE DATABASE mlflow_backend;
+CREATE DATABASE mlops;
